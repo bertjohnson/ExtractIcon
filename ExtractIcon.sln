@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractIcon", "src\ExtractIcon.csproj", "{0DB3A0A0-9E2E-44F6-A328-8FA871F579BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB3A0A0-9E2E-44F6-A328-8FA871F579BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB3A0A0-9E2E-44F6-A328-8FA871F579BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB3A0A0-9E2E-44F6-A328-8FA871F579BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB3A0A0-9E2E-44F6-A328-8FA871F579BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6EA0A8-0250-4620-A42C-9362171DFCFC}
+	EndGlobalSection
+EndGlobal
