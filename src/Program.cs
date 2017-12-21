@@ -159,7 +159,7 @@ namespace extracticon
         }
 
         /// <summary>
-        /// Draws ab unage.
+        /// Draws an image to the specified context.
         /// </summary>
         /// <param name="hdc"></param>
         /// <param name="index"></param>
